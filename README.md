@@ -33,7 +33,7 @@ I come from a civil engineering background and I'm currently expanding my skills
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianbonnet/)
-[![CV](https://img.shields.io/badge/CV-%23D14836.svg?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1a6Xs9D94NqpdWXcNh_nygTyghT8445aV/view?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-%23D14836.svg?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1W02To60iNsLhEbA3rB1CTZ3IwO_nuBVx/view?usp=sharing)
 
 
 
