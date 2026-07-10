@@ -4,6 +4,8 @@
 
 I come from a civil engineering background and I'm currently expanding my skills into software development through the SENA training program in Colombia. I enjoy building practical web applications and back-end services, and I'm always looking for ways to bridge the gap between engineering and technology.
 
+✉️ julianandresbonnet@gmail.com
+
 ---
 
 ## Tech Stack
@@ -32,6 +34,8 @@ I come from a civil engineering background and I'm currently expanding my skills
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianbonnet/)
 [![CV](https://img.shields.io/badge/CV-%23D14836.svg?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1a6Xs9D94NqpdWXcNh_nygTyghT8445aV/view?usp=sharing)
+
+
 
 
 
