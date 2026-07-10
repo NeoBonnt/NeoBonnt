@@ -19,7 +19,7 @@ I come from a civil engineering background and I'm currently expanding my skills
 
 ## 🚀 Featured Projects
 
-### 🔧 [SERVICIO-WEB---PROYECTO](https://github.com/NeoBonnt/SERVICIO-WEB---PROYECTO)
+### 🔧 [User Management Web Service](https://github.com/NeoBonnt/SERVICIO-WEB---PROYECTO)
 A RESTful user management service built with **Spring Boot** (Java). Demonstrates back-end development skills including REST API design and service layer architecture.
 
 ### 🅿️ [SmartParking Web App](https://github.com/NeoBonnt/SmartParking_Web_App)
