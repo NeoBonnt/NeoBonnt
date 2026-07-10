@@ -2,7 +2,9 @@
 
 **Civil Engineer · Entry-Level Developer · SENA Apprentice**
 
-I come from a civil engineering background and I'm currently expanding my skills into software development through the SENA training program in Colombia. I enjoy building practical web applications and back-end services, and I'm always looking for ways to bridge the gap between engineering and technology.
+I'm a software analysis and development student at SENA (Colombia), with a background in civil engineering. My current focus is becoming a backend developer.
+
+I'm deepening my knowledge in Python, Django, Java and Spring Boot, with Docker for containerization. I learn best by building small projects that solve real problems, and I prefer to understand the fundamentals before chasing the next framework.
 
 ✉️ julianandresbonnet@gmail.com
 
@@ -19,12 +21,13 @@ I come from a civil engineering background and I'm currently expanding my skills
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-8957E5?style=flat-square&logo=github-copilot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## Currently Learning
 
-- Back-end development with Java & Spring Boot
+- Back-end development with Java, Spring Boot & Docker
 - Web development fundamentals (HTML · CSS · JavaScript · React)
 - Software engineering best practices
 
